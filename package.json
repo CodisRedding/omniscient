@@ -4,7 +4,7 @@
   "description": "A plugin to visualize a hapi lifecycle.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "lab -a code -t 100 -L",
+    "test": "lab -a code -t 100",
     "test-cov-html": "lab -a code -r html -o coverage.html"
   },
   "engines": {
